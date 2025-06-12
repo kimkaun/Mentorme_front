@@ -1,17 +1,14 @@
-<<<<<<< HEAD
-# React + Vite
+# 🪴프로젝트 소개
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 프로젝트 이름
+"Mentorme"
 
-Currently, two official plugins are available:
+### 개요
+취준생들을 위한  AI를 이용해서 면접을 연습할 수 있는 프로그램<br>
+면접 질문을 랜덤으로 받아 대답하고 AI가 실시간으로 피드백을 줌<br>
+자신의 관심 업무를 지정할 수 있고, 회사 추천도 받을 수 있다.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# MentorMe
-[2025 MIRIM IT쇼] 모의 면접 사이트
->>>>>>> 22de30c (로그인 인풋, 링크, 버튼 구현)
+### 개발
+* 개발 인원 : 4명
+* 맡은 업무 : 프론트 제작(로그인, 회원가입, 마이페이지 상세, 커뮤니티, 회사 추천 페이지 등)
+* 사용 언어 : React
